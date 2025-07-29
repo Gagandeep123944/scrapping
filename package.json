@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "googleapis": "^154.0.0",
+    "node-cron": "^4.2.1",
+    "puppeteer": "^24.15.0"
+  },
+  "name": "node-web-scrapping",
+  "version": "1.0.0",
+  "main": "cron-job.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
